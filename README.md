@@ -13,6 +13,8 @@ This Solidity smart contract allows for decentralized, secure, and tamper-proof 
 - [Contributing](#contributing)
 - [License](#license)
 
+![image](https://github.com/user-attachments/assets/b49205a4-fb55-47cc-9837-afee21cc5d49)
+
 ## Overview
 
 The `Attendance` contract is designed to facilitate the tracking and rewarding of student attendance in an educational environment. It leverages blockchain's transparency and immutability to ensure that attendance records are accurate and cannot be tampered with.
@@ -24,7 +26,7 @@ The `Attendance` contract is designed to facilitate the tracking and rewarding o
 - **Automatic Rewards**: Students are rewarded with tokens each time they attend a class.
 - **Attendance Check**: Anyone can view the attendance status and rewards of a student.
 
-## Contract Details
+## Contract Address :0xA3146357964A86a94aBBA06E42f164e5B4552eC0
 
 ### State Variables
 
@@ -61,4 +63,10 @@ The `Attendance` contract is designed to facilitate the tracking and rewarding o
   
   ```solidity
   markAttendance(0xStudentAddress);
+
+  Name: Hrishikesh Deka
+  Email: hrishikeshdeka49@gmail.com
+  github:https://github.com/HrishikeshDeka12334
+  linkedin:https://www.linkedin.com/in/hrishikesh-deka-8b4056251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  
 
